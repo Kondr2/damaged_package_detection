@@ -1,0 +1,9 @@
+torch
+torchvision
+pytorch-lightning
+pandas
+scikit-learn
+scikit-image
+matplotlib
+opencv-python
+seaborn
